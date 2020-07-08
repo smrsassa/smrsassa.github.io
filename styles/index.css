@@ -6,6 +6,8 @@
 
 body {
   background: #333;
+  background: url(../dist/img/universe.jpg) no-repeat;
+  background-size: cover;
 }
 
 .container {
@@ -28,18 +30,9 @@ body {
   font-weight: 700;
   letter-spacing: 8px;
   margin-bottom: 20px;
-  background: #333;
+  opacity: 100%;
   position: relative;
   animation: text 3s 1;
-}
-
-.Subtitle {
-  font-size: 30px;
-}
-
-.link {
-  color: #007bff;
-  text-decoration: none;
 }
 
 @keyframes text {
@@ -54,5 +47,27 @@ body {
   85% {
     letter-spacing: 8px;
     margin-bottom: -40px;
+  }
+}
+
+.Subtitle {
+  font-size: 30px;
+}
+
+.link {
+  color: #3697ff;
+  text-decoration: none;
+  animation: stext 6s 1;
+}
+
+@keyframes stext {
+  0% {
+    opacity: 0%;
+  }
+  50% {
+    opacity: 0%;
+  }
+  60% {
+    opacity: 100%;
   }
 }
