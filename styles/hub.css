@@ -6,6 +6,28 @@ body{
   align-items: center;
   justify-content: center;
   background-color: #333;
+  background: url(../dist/img/mars.jpg) no-repeat;
+  background-size: cover;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.card2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+label {
+  font-weight: 600;
+  color: white;
+  font-size: 24px;
 }
 
 .image{
@@ -40,6 +62,6 @@ body{
   background-image: url(../dist/img/links.jpg);
 }
 
-.image:nth-child(2)::before{
+.card2 .image:nth-child(1)::before{
   background-image: url(../dist/img/code.jpg);
 }
