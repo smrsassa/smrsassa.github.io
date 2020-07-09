@@ -1,0 +1,21 @@
+.mars {
+  height: 80vh;
+  background: #2c3e50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.mars h3 {
+  color: white;
+  font-size: 24px;
+}
+
+.mars p {
+  color: white;
+  font-size: 18px;
+  max-width: 700px;
+}
