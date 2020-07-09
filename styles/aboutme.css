@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(../dist/img/bg2.jpg) no-repeat;
+  background: url(../dist/img/bg.jpg) no-repeat;
   background-size: cover;
 }
 body {
@@ -11,7 +11,7 @@ body {
 
 .box{
   width: 450px;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.5);
   border-radius: 8px;
   /*background: rgba(44, 62, 80, 0.6);*/
   padding: 40px;

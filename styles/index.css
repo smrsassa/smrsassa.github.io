@@ -6,7 +6,7 @@
 
 body {
   background: #333;
-  background: url(../dist/img/universe.jpg) no-repeat;
+  background: url(../dist/img/oculos.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .Title {
-  color: white;
+  text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
   font-size: 60px;
   font-weight: 700;
   letter-spacing: 8px;
@@ -55,7 +55,8 @@ body {
 }
 
 .link {
-  color: #3697ff;
+  color: #3699d6;
+  text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
   text-decoration: none;
   animation: stext 6s 1;
 }
