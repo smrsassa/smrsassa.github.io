@@ -1,0 +1,20 @@
+@media (max-width: 750px) {
+
+  .title {
+    margin-left: 20px;
+  }
+
+  .aboutme * {
+    margin-left: 15px;
+    position: relative;
+  }
+
+  .header {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    max-width: 350px;
+    margin-bottom: 20px;
+  }
+
+}

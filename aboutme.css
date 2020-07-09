@@ -1,0 +1,39 @@
+.aboutme {
+  height: 80vh;
+  background: #2c3e50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  background-size: cover;
+}
+
+.headerTitle {
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.headerTitle {
+  color: white;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+
+.headerText {
+  color: white;
+  max-width: 500px;
+  text-align: justify;
+}
+
+
