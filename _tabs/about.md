@@ -12,6 +12,10 @@ Assim, Santo Tomás utilizava essa metáfora para explicar a encarnação de Cri
 
 Obviamente, não estou me equiparando a Deus, mas sim indicando que os textos encontrados neste site são compilações de meus estudos e esforços para compreender melhor a Verdade. Por isso o nome, pois tudo que está aqui é oferecido para melhor honrar o Dolcissimo Pelicano.
 
+## Conteúdo do Site
+
+Aqui estão alguns textos que retirei de minhas anotações de aulas, vídeos, outros textos, etc.
+
 ## Autor
 
 Meu nome é Samuel Rufino, sou católico e trabalho com programação. Se desejar saber mais, acesse minhas redes sociais.
