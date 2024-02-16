@@ -8,6 +8,9 @@ math: false
 mermaid: false
 ---
 
+> O texto abaixo é uma reescrita do roteiro do vídeo ["Como ser Feliz"](https://www.youtube.com/watch?v=dnJa8BWiJuI) do canal [**potsoa**](https://www.youtube.com/@potsoa). Portanto, os créditos vão para o canal  [**potsoa**](https://www.youtube.com/@potsoa) pela inspiração e pelas ideias transmitidas.
+{: .prompt-info }
+
 ## Introdução
 
 Ao longo do tempo, temos sido traídos pela nossa concepção de felicidade, sem muitas vezes percebermos. A busca pela felicidade é um anseio universal ao longo da história da humanidade. Na era moderna, o avanço das diversas técnicas proporcionou um nível de bem-estar material que nossos antepassados de um século atrás jamais poderiam ter imaginado. No entanto, mesmo com esse conforto sem precedentes, parece que algo continua faltando. Apesar do aumento significativo do nosso conforto material, a felicidade não tem acompanhado esse progresso.
