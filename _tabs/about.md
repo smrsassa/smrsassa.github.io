@@ -10,7 +10,7 @@ Este nome é uma referência à forma como Santo Tomás de Aquino se referia a D
 
 Assim, Santo Tomás utilizava essa metáfora para explicar a encarnação de Cristo e seu sacrifício na cruz para a salvação da humanidade. Ele via Cristo como o "Pelicano Divino", que se sacrificou para alimentar espiritualmente seus seguidores com sua própria vida, assemelhando-se à generosidade do pelicano ao alimentar seus filhotes com seu próprio sangue.
 
-Obviamente, não estou me equiparando a Deus, mas sim indicando que os textos encontrados neste site são compilações de meus estudos e esforços para compreender melhor a Verdade. Por isso o nome, pois tudo que está aqui é oferecido para melhor honrar o Dolcissimo Pelicano.
+Obviamente, não estou me equiparando a Deus, mas sim indicando que os textos encontrados neste site são compilações de meus estudos e esforços para compreender melhor a Verdade. Por isso o nome, pois tudo que está aqui é oferecido para melhor honrar o Dulcíssimo Pelicano.
 
 ## Conteúdo do Site
 
