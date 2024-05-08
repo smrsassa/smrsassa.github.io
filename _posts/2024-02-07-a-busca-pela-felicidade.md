@@ -6,6 +6,7 @@ tags: [reflexões, felicidade]
 pin: false
 math: false
 mermaid: false
+hidden: true
 ---
 
 > O texto abaixo é uma reescrita do roteiro do vídeo ["Como ser Feliz"](https://www.youtube.com/watch?v=dnJa8BWiJuI) do canal [**potsoa**](https://www.youtube.com/@potsoa). Portanto, os créditos vão para o canal  [**potsoa**](https://www.youtube.com/@potsoa) pela inspiração e pelas ideias transmitidas.

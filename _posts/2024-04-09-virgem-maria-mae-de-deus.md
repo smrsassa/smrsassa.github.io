@@ -28,6 +28,15 @@ Tudo o que foi falado coloca Nossa Senhora em uma relação muito próxima ao n�
 
 Deus criou o homem sabendo que ele pecaria, pois o Redentor já havia sido providenciado antes do pecado. Em outras palavras, quando Deus revela a inimizade entre o demônio e a mulher, Ele mostra que Maria já estava predestinada no plano da criação. Quando Deus estabeleceu que Ele seria encarnado, Maria estava inclusa nesse plano desde a eternidade. Para diminuir Maria como uma pessoa qualquer, é preciso fazer uma leitura muito superficial de toda a redenção de Cristo. Santo Irineu de Lyon, discípulo de São Policarpo, que por sua vez foi discípulo de São João Evangelista, já falava de Maria como a nova Eva, pois da mesma maneira que o mal entrou no mundo por uma mulher, a salvação entra no mundo por uma mulher.
 
+## Sub tuum praesidium
+
+Esta antiga oração em latim, que significa "Sob tua proteção", é uma das mais antigas dedicadas à Virgem Maria. O papiro que contém o hino em grego remonta ao século III. Nesse hino, Maria é chamada de Theotokos, ou seja, mãe de Deus.
+
+> À vossa proteção recorremos, Santa Mãe de Deus;<br>
+> não desprezeis as nossas súplicas em nossas necessidades;<br>
+> mas livrai-nos sempre de todos os perigos,<br>
+> ó Virgem gloriosa e bendita. Amém.
+
 ## Conclusão
 
-Ao considerar o papel de Maria na obra da redenção, percebemos que ela não é apenas uma personagem histórica, mas um elo essencial no tecido da teologia cristã. Sua conexão única com a encarnação de Cristo, deixada clara pelas escrituras e pelos ensinamentos dos primeiros padres, demonstra sua importância no plano da salvação. A compreensão de Maria como a nova Eva, conforme expressa por Santo Irineu de Lyon, sublinha sua indispensável participação no plano divino.
+Ao considerar o papel de Maria na obra da redenção, percebemos que ela não é apenas uma personagem histórica, mas um elo essencial no tecido da teologia cristã. Sua conexão única com a encarnação de Cristo, deixada clara pelas escrituras e pelos ensinamentos dos primeiros padres, demonstra sua importância no plano da salvação. A compreensão de Maria como a nova Eva, conforme expressa por Santo Irineu de Lyon(seculo II), sublinha sua indispensável participação no plano divino.
