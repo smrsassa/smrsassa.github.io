@@ -10,6 +10,7 @@ order: 1
         id="pesquisa" name="pesquisa" 
         class="form-control" type="text" 
         placeholder="Pesquise um artigo!"
+        required="required"
         style="background: initial; border: 3px solid #4a4a4a; color: #cccccc;"
       >
     </form>

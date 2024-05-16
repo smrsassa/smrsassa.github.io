@@ -12,6 +12,7 @@ title: Conteudo
         id="pesquisa" name="pesquisa" 
         class="form-control" type="text" 
         placeholder="Pesquise um artigo!"
+        required="required"
         style="background: initial; border: 3px solid #4a4a4a; color: #cccccc;"
       >
     </form>
@@ -26,9 +27,15 @@ title: Conteudo
 {% include js-suma.html %}
 
 <script>
-  const data = apiSuma(
-    "suma_tartigos?titulo=ilike.%25"+ getParam("pesquisa") +"%25",
-    "conteudo"
-  );
+  document.getElementById("pesquisa").value = getParam("pesquisa");
+
+  if (getParam("pesquisa") !== "") {
+    const data = apiSuma(
+      "suma_tartigos?titulo=ilike.%25"+ getParam("pesquisa") +"%25",
+      "conteudo"
+    );
+  } else {
+    alert("Pesquisa vazia!");
+  }
 </script>
 
