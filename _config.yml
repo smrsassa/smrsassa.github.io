@@ -137,6 +137,10 @@ kramdown:
       start_line: 1
 
 collections:
+  tags:
+    output: false
+  categories:
+    output: false
   tabs:
     output: true
     sort_by: order
@@ -193,11 +197,11 @@ exclude:
   - rollup.config.js
   - package*.json
 
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+# jekyll-archives:
+#   enabled: [categories, tags]
+#   layouts:
+#     category: category
+#     tag: tag
+#   permalinks:
+#     tag: /tags/:name/
+#     category: /categories/:name/
