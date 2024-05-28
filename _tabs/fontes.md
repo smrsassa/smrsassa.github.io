@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-users
-order: 4
+order: 3
 ---
 
 Aqui está uma lista de produtores de conteúdo gratuito que são de grande valor para os estudos de qualquer católico. Só para deixar claro, os textos deste blog são de minha responsabilidade e não refletem a opinião desses outros criadores.
