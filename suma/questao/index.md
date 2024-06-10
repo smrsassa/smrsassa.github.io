@@ -12,7 +12,7 @@ title: Questão
 	getTitleParam();
 
   const data = apiSuma(
-    "suma_tquestao?id_capitulo=eq."+ getParam("id"),
+    "suma_tquestao?id_capitulo=eq."+ getParam("id") +"&order=numero.asc",
     "artigo"
   );
 </script>

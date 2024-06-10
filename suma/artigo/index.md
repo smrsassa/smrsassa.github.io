@@ -12,7 +12,7 @@ title: Artigo
 	getTitleParam();
 
   const data = apiSuma(
-    "suma_tartigos?id_questao=eq."+ getParam("id"),
+    "suma_tartigos?id_questao=eq."+ getParam("id") +"&order=numero.asc",
     "conteudo"
   );
 </script>

@@ -12,7 +12,7 @@ title: Capitulo
 	getTitleParam();
 
   const data = apiSuma(
-    "suma_tcapitulo?id_parte=eq."+ getParam("id"),
+    "suma_tcapitulo?id_parte=eq."+ getParam("id") +"&order=ordem.asc",
     "questao",
   );
 </script>
