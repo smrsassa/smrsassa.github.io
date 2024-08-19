@@ -2,7 +2,7 @@
 title: Brasil educação e vida espiritual
 description: O que a educação tem a ver com vida espiritual?
 categories: [Religião, Estudo]
-tags: [catolico, estudo, leitura]
+tags: [estudo, leitura]
 pin: false
 math: false
 mermaid: false

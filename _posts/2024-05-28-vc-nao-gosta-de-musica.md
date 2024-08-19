@@ -2,7 +2,7 @@
 title: Você não gosta de música
 description: A gloria de Deus é o unico fim e objetivo da música
 categories: [Religião, Música]
-tags: [catolico, musica, virtude]
+tags: [musica, virtude]
 pin: false
 math: false
 mermaid: false

@@ -2,7 +2,7 @@
 title: As cinco propriedades da oração
 description: Quais são as caracteristicas de uma boa oração e seus frutos?
 categories: [Religião, Oração]
-tags: [catolico, oracao]
+tags: [oracao]
 pin: false
 math: false
 mermaid: false

@@ -2,7 +2,7 @@
 title: Virgem Maria mãe de Deus
 description: Virgem Maria mãe de Deus
 categories: [Religião, Virgem Maria]
-tags: [reflexões, catolico, virgem maria]
+tags: [reflexões, virgem maria]
 pin: false
 math: false
 mermaid: false

@@ -2,7 +2,7 @@
 title: Por que sou católico?
 description: Por que sou católico?
 categories: [Reflexões]
-tags: [reflexões, catolico]
+tags: [reflexões]
 pin: false
 math: false
 mermaid: false
